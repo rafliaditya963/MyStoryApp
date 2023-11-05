@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+
+    <!-- Login Page -->
+    <string name="login_image">ilustrasi dari proses masuk</string>
+    <string name="login_header">Masuk dengan akunmu</string>
+    <string name="sign_in">Daftar</string>
+    <string name="register_message">Tidak memiliki akun?</string>
+    <string name="register_here">Daftar disini!</string>
+    <string name="login">Masuk</string>
+    <string name="message_login_page">Login terlebih dahulu yuk!</string>
+    <string name="title_login_page">Sudah siap untuk upload story?</string>
+
+    <!-- Register Page -->
+    <string name="register_image">ilustrasi dari proses daftar</string>
+    <string name="register_header">Buat akun baru</string>
+    <string name="message_register_page">daftar terlebih dahulu yuk!</string>
+    <string name="register">Daftar</string>
+    <string name="login_message">Sudah punya akun?</string>
+    <string name="login_here">Masuk disini</string>
+
+    <!-- Login and Register -->
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="password">Kata sandi</string>
+    <string name="invalid_email">Email tidak sesuai</string>
+    <string name="invalid_password">Diperlukan kata sandi minimal 8 karakter</string>
+
+    <!-- Main Page -->
+    <string name="setting">pengaturan</string>
+    <string name="logout">keluar</string>
+    <string name="logout_confirmation">kamu yakin ingin keluar?</string>
+    <string name="yes">iya</string>
+    <string name="cancel">batal</string>
+    <string name="add">tambahkan item baru</string>
+    <string name="retry">Coba lagi</string>
+
+    <!-- Add Page -->
+    <string name="new_story">Cerita baru</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Mengunggah</string>
+
+    <!-- Detail Page -->
+    <string name="image">image story</string>
+
+    <!-- Maps Page -->
+    <string name="map">peta</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <!-- Message For User and Logcat -->
+    <string name="failed_register">Register gagal dengan error:</string>
+    <string name="failed_login">Masuk gagal dengan error:</string>
+    <string name="wrong_authentication">Email atau kata sandi salah</string>
+    <string name="invalid_authentication">Alamat email tidak valid atau alamat yang sudah didaftarkan sebelumnya</string>
+    <string name="register_success_message">Berhasil mendaftarkan akun baru</string>
+    <string name="register_failed">Pendaftaran gagal</string>
+    <string name="register_success">Pendaftaran berhasil</string>
+    <string name="login_failed">login gagal</string>
+    <string name="ok">OK</string>
+    <string name="info">Info</string>
+    <string name="empty_story">tidak ada cerita</string>
+    <string name="data_error">Pengambilan gagal</string>
+    <string name="data_error_message">Gagal mengambil cerita dengan kesalahan:</string>
+    <string name="camera_failed">Gagal menampilkan kamera</string>
+    <string name="take_picture_failed">Gagal mengambil gambar</string>
+    <string name="permission_failed">Akses izin gagal</string>
+    <string name="choose_image">Pilih gambar</string>
+    <string name="upload_image_empty">Silakan masukkan gambar atau deskripsi</string>
+    <string name="camera_success_title">Unggah Sukses</string>
+    <string name="camera_failed_title">Kamera Gagal</string>
+    <string name="camera_failed_value">Kamera gagal karena kesalahan:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
